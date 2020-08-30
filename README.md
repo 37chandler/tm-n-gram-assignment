@@ -10,3 +10,5 @@ want to make use of the `choices` function in the `random` library
 to do the weighted choice (like `sample` in R) of the unigrams or 
 bigrams.
 
+Your bigram function should allow the user to pass in a starting
+word to begin building the chain of words. 
